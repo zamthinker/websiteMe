@@ -1,6 +1,6 @@
 ---
 # Display name
-title: L.C
+title: Lc
 
 # Name pronunciation (optional)
 
@@ -37,7 +37,7 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: B.A/L.C Arabic Licterature
+  - area: Ba/Lc Arabic Licterature
     institution: The Institute of Islamic and Arabic Sciences(Lipia)
     date_start: 2020-01-01
     date_end: 2024-12-31
