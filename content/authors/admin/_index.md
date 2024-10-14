@@ -54,7 +54,7 @@ education:
      
   - area: I'dad Arabic Literature
     institution: The Institute of Islamic and Arabic Sciences (Lipia)
-    date_start: 2016-01-0
+    date_start: 2016-01-01
     date_end: 2018-12-31
     summary: |
   
@@ -159,4 +159,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+Saya ibu rumah tangga biasa memiliki kecenderungan terhadap bahasa arab, dan juga cukup fasih berbahasa Arab secara tertulis maupun lisan, bercita-cita menjadi pengajar atau pengembang dalam bidang bahasa arab di sebuah lembaga pendidikan untuk menambah pengalaman dan mengamalkan ilmu saya agar tidak hilang. Selain itu saya senang menulis, membaca, menganalisa, menonton dan mereview film.
