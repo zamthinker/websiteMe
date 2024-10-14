@@ -130,7 +130,7 @@ skills:
 languages:
   - name: English
     percent: 60
-  - name: Arbic
+  - name: Arabic
     percent: 100
   - name: Indonesia
     percent: 100
