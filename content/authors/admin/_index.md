@@ -42,6 +42,8 @@ education:
     date_start: 2020-01-01
     date_end: 2024-12-31
     summary: |
+      GPA : 4.75/5 Predicat Excellent second class honor
+      
       - focusing on Islamic studies, Arabic language, and related fields.
       
   - area: Takmili Arabic Licterature
