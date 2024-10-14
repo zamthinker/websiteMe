@@ -3,7 +3,8 @@
 title: L.C
 
 # Name pronunciation (optional)
-name_pronunciation: Amaturofi nurul izzah
+
+name_pronunciation: AMATUROFI NURUL IZZAH
 
 # Full name (for SEO)
 first_name: Amaturofi
@@ -100,34 +101,31 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-      - name: RStudio
+      - name: Bahasa Arab
         description: ''
         percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        icon: hero/language
+      - name: Mengajar
         description: ''
-        percent: 40
-        icon: devicon/pytorch
+        percent: 100
+        icon: hero/acedmic-cap
+        
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Menulis Cerita
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: hero/pencil-square
+      - name: Membaca
+        description: ''
+        percent: 100
+        icon: hero/book-open
+      - name: Menonton dan Mereview Movie
         description: ''
         percent: 80
-        icon: camera
+        icon: hero/film
 
 languages:
   - name: English
