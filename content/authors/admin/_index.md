@@ -4,7 +4,7 @@ title: L.C
 
 # Name pronunciation (optional)
 
-name_pronunciation: AMATUROFI NURUL IZZAH
+name_pronunciation: AMATURROOFI NURUL IZZAH
 
 # Full name (for SEO)
 first_name: Amaturofi
@@ -167,4 +167,4 @@ languages:
 #      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-Saya ibu rumah tangga biasa memiliki kecenderungan terhadap bahasa arab, dan juga cukup fasih berbahasa Arab secara tertulis maupun lisan, bercita-cita menjadi pengajar atau pengembang dalam bidang bahasa arab di sebuah lembaga pendidikan untuk menambah pengalaman dan mengamalkan ilmu saya agar tidak hilang. Selain itu saya senang menulis, membaca, menganalisa, menonton dan mereview film.
+Saya adalah fresh graduated sarjana S1 LIPIA jurusan bahasa arab tahun 2024, saya cukup fasih berbahasa Arab secara tertulis maupun lisan, bercita-cita menjadi pengajar atau pengembang dalam bidang bahasa arab di sebuah lembaga pendidikan untuk menambah pengalaman dan mengamalkan ilmu saya agar tidak hilang. Selain itu saya senang menulis, membaca, menganalisa, menonton dan mereview film.
