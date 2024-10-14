@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lc
+title: L.C
 
 # Name pronunciation (optional)
 name_pronunciation: Amaturofi nurul izzah
@@ -62,28 +62,38 @@ education:
       - focus on foundational subjects, including Arabic language, Islamic studies, and other essential topics, to prepare students for more advanced coursework
      
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+
+  - position: Privat bahasa arab anak usia dini buku bahasa arab BISA
+    company_name: 
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-01-01
+    date_end: 2024-01-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Mengajar Bahasa Arab
+      
+  - position: Mengajar Wiyata Bhakti
+    company_name: 
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-01-01
+    date_end: 2016-01-01
+    summary: |2-
+      Responsibilities include:
+      - Mengajar Bahasa Arab
+      
+  - position: ketua Cabang Seksi Bahasa 
+    company_name: Ponpes Al mukmin Ngruki 
+    company_url: ''
+    company_logo: ''
+    date_start: 2014-01-01
+    date_end: 2015-01-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Membantu meningkatkan kemampuan bahasa Arab para santriwati di ruanglingkup Ponpes
+      
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -121,11 +131,11 @@ skills:
 
 languages:
   - name: English
+    percent: 60
+  - name: Arbic
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Indonesia
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
