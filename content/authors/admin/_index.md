@@ -74,7 +74,7 @@ work:
       Responsibilities include:
       - Mengajar Bahasa Arab
       
-  - position: Mengajar Wiyata Bhakti
+  - position: Guru Wiyata Bhakti
     company_name: 
     company_url: ''
     company_logo: ''
