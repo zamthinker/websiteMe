@@ -108,7 +108,7 @@ skills:
       - name: Mengajar
         description: ''
         percent: 100
-        icon: hero/acedmic-cap
+        icon: hero/academic-cap
         
   - name: Hobbies
     color: '#eeac02'
