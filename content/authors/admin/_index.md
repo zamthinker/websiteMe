@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Lc
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Amaturofi nurul izzah
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Amaturofi
+last_name: nurul izzah
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Teacher and Writer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: ""
+    url: ""
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -31,46 +31,36 @@ profiles:
     url: 'mailto:your-email@example.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://twitter.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.A/L.C Arabic Licterature
+    institution: The Institute of Islamic and Arabic Sciences(Lipia)
+    date_start: 2020-01-01
+    date_end: 2024-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - focusing on Islamic studies, Arabic language, and related fields.
+      
+  - area: Takmili Arabic Licterature
+    institution: The Institute of Islamic and Arabic Sciences(Lipia)
+    date_start: 2019-01-01
+    date_end: 2019-12-31
     summary: |
-      GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - focused on enhancing students' knowledge in various Islamic sciences and the Arabic language. It often serves as a bridge between foundational courses and higher-level studies
+     
+  - area: I'dad Arabic Literature
+    institution: The Institute of Islamic and Arabic Sciences (Lipia)
+    date_start: 2016-01-0
+    date_end: 2018-12-31
     summary: |
-      GPA: 3.4/4.0
-      
+  
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - focus on foundational subjects, including Arabic language, Islamic studies, and other essential topics, to prepare students for more advanced coursework
+     
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
