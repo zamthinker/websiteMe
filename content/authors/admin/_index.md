@@ -18,7 +18,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Teacher and Writer
+role: Guru dan Penulis
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
